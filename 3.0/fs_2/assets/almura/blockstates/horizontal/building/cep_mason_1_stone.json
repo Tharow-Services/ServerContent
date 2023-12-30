@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:cep_mason_1_stone.obj",
+        "model": "almura:horizontal/building/cep_mason_1_stone",
         "transform": "forge:default-block"
     },
     "variants": {

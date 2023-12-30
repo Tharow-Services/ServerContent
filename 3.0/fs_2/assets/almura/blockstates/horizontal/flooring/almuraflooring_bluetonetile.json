@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:almuraflooring_bluetonetile.obj",
+        "model": "almura:block/flooring/bluetonetile",
         "transform": "forge:default-block"
     },
     "variants": {
