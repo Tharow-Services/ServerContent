@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:lightbrownmarbletile.obj",
+        "model": "almura:horizontal/building/light_brown_marble_tile",
         "transform": "forge:default-block"
     },
     "variants": {

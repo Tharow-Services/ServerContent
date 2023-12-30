@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:normal/letter/cb.obj",
+        "model": "almura:normal/letter/cb",
         "transform": "forge:default-block"
     },
     "variants": {

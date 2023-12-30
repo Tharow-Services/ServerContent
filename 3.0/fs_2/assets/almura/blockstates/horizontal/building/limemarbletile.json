@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:limemarbletile.obj",
+        "model": "almura:horizontal/building/lime_marble_tile",
         "transform": "forge:default-block"
     },
     "variants": {

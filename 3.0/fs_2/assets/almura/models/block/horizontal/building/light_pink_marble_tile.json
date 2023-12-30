@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "almura:block/building/light_pink_marble_tile"
+    }
+}

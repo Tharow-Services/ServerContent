@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:normal/letter/yb.obj",
+        "model": "almura:normal/letter/yb",
         "transform": "forge:default-block"
     },
     "variants": {

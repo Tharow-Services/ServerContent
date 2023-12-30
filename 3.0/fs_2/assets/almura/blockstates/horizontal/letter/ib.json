@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:normal/letter/ib.obj",
+        "model": "almura:normal/letter/ib",
         "transform": "forge:default-block"
     },
     "variants": {
