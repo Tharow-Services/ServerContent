@@ -3,7 +3,8 @@
     "textures": {
         "bricks_block_b_ssbricks": "almura:block/building/bricks_block_b_ssbricks",
         "walnut_plank": "almura:block/building/walnut_plank",
-        "bricks_block_b_wood_stone_bricks_side": "almura:block/building/bricks_block_b_wood_stone_bricks_side"
+        "bricks_block_b_wood_stone_bricks_side": "almura:block/building/bricks_block_b_wood_stone_bricks_side",
+        "particle": "almura:block/building/bricks_block_b_ssbricks"
     },
     "display": {
         "gui": {

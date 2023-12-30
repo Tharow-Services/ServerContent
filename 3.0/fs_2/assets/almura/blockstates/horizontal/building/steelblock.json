@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:steelblock.obj",
+        "model": "almura:horizontal/building/steel_block",
         "transform": "forge:default-block"
     },
     "variants": {
