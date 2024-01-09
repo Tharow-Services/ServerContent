@@ -1,0 +1,87 @@
+{
+	"credit": "Made with Blockbench; Created By TherayTharow <tharowt@tharow.net>",
+	"textures": {
+		"0": "almura:block/furniture/cep_carpenter_drawers_end",
+		"1": "almura:block/furniture/cep_carpenter_drawers_side",
+		"2": "almura:block/furniture/cep_innkeeper_yellow_bordered",
+		"particle": "almura:block/furniture/cep_carpenter_drawers_end"
+	},
+	"elements": [
+		{
+			"name": "Bottom Ledge",
+			"from": [0, 0, 0],
+			"to": [16, 1, 16],
+			"faces": {
+				"north": {"uv": [0, 15, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 15, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 15, 16, 16], "rotation": 180, "texture": "#1"},
+				"west": {"uv": [0, 15, 16, 16], "rotation": 180, "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Yellow North",
+			"from": [2, 1, 1],
+			"to": [16, 2, 2],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "Yellow West",
+			"from": [1, 1, 2],
+			"to": [2, 2, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "Center",
+			"from": [4, 1, 4],
+			"to": [16, 14, 16],
+			"faces": {
+				"north": {"uv": [0, 2, 12, 15], "texture": "#1"},
+				"east": {"uv": [0, 2, 12, 15], "texture": "#1"},
+				"south": {"uv": [0, 2, 12, 15], "texture": "#1"},
+				"west": {"uv": [0, 2, 12, 15], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Top",
+			"from": [0, 14, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 2], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 2], "texture": "#1"},
+				"south": {"uv": [16, 0, 0, 2], "texture": "#1"},
+				"west": {"uv": [16, 0, 0, 2], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Yellow Conner",
+			"from": [1, 1, 1],
+			"to": [2, 2, 2],
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 0.5], "texture": "#2"},
+				"east": {"uv": [0, 0, 0.5, 0.5], "texture": "#2"},
+				"south": {"uv": [0, 0, 0.5, 0.5], "texture": "#2"},
+				"west": {"uv": [0, 0, 0.5, 0.5], "texture": "#2"},
+				"up": {"uv": [0, 0, 0.5, 0.5], "texture": "#2"},
+				"down": {"uv": [0, 0, 0.5, 0.5], "texture": "#2"}
+			}
+		}
+	]
+}

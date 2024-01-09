@@ -1,21 +1,23 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:almuracustom1_walllight.obj",
+        "model": "almura:light/wall_light",
         "transform": "forge:default-block"
     },
     "variants": {
         "inventory": [ { } ],
         "facing": {
             "south": {
-                "y": 180.0
+                
             },
             "west": {
-                "y": 270.0
-            },
-            "north": { },
-            "east": {
                 "y": 90.0
+            },
+            "north": {
+                "y": 180.0
+             },
+            "east": {
+                "y": 270.0
             }
         }
     }

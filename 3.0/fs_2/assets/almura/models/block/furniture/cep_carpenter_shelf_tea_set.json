@@ -1,0 +1,6 @@
+{
+    "parent": "almura:block/furniture/cep_common_shelf",
+    "textures": {
+        "backing": "almura:block/furniture/cep_carpenter_shelf_tea_set"
+    }
+}

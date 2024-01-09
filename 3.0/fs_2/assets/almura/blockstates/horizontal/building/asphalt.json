@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:horizontal/building/asphalt",
+        "model": "almura:horizontal/building/tharow-s_measurement_cube",
         "transform": "forge:default-block"
     },
     "variants": {

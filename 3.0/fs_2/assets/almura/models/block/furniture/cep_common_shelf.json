@@ -1,0 +1,76 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "almura:block/furniture/cep_carpenter_cabinet_side",
+		"backing": "almura:block/furniture/cep_carpenter_shelf",
+		"particle": "almura:block/furniture/cep_carpenter_cabinet_side"
+	},
+	"elements": [
+		{
+			"name": "Base Cube",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"name": "Bottom Ledge",
+			"from": [1, 0, 0],
+			"to": [15, 3, 2.5],
+			"faces": {
+				"north": {"uv": [1, 13, 15, 16], "texture": "#0"},
+				"up": {"uv": [1, 12.5, 15, 15], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"name": "Shelf Backing",
+			"from": [1, 3, 2.5],
+			"to": [15, 14.5, 2.5],
+			"faces": {
+				"north": {"uv": [1, 1.5, 15, 13], "texture": "#backing"}
+			}
+		},
+		{
+			"name": "Top Ledge",
+			"from": [1, 14.5, 0],
+			"to": [15, 16, 2.5],
+			"faces": {
+				"north": {"uv": [1, 0, 15, 1.5], "texture": "#0"},
+				"down": {"uv": [1, 1.5, 15, 4], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"name": "Shelf",
+			"from": [1, 8.5, 0],
+			"to": [15, 10, 2.5],
+			"faces": {
+				"north": {"uv": [1, 6, 15, 7.5], "texture": "#0"},
+				"up": {"uv": [1, 3.5, 15, 6], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [1, 4.5, 15, 7], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"name": "West Ledge",
+			"from": [0, 0, 0],
+			"to": [1, 16, 2.5],
+			"faces": {
+				"north": {"uv": [15, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [1, 0, 3.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "East Ledge",
+			"from": [15, 0, 0],
+			"to": [16, 16, 2.5],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 16], "texture": "#0"},
+				"west": {"uv": [1, 0, 3.5, 16], "texture": "#0"}
+			}
+		}
+	]
+}

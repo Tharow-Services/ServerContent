@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:horizontal/lighting/ceiling_light",
+        "model": "almura:light/ceiling_light",
         "transform": "forge:default-block"
     },
     "variants": {

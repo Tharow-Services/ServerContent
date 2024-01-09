@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:cep_innkeeper_bar.obj",
+        "model": "almura:furniture/cep_innkeeper_bar_straight",
         "transform": "forge:default-block"
     },
     "variants": {
