@@ -6,7 +6,7 @@
     "variants": {
         "age": {
             "0": {
-                "model": "almura:crop/common/flat_0.obj"
+                "model": "almura:crop/common/flat_crop"
             },
             "1": {
                 "model": "almura:crop/alfalfa/alfalfa_1"
