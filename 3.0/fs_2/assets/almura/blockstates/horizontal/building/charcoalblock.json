@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:charcoalblock.obj",
+        "model": "almura:horizontal/building/charcoal_block",
         "transform": "forge:default-block"
     },
     "variants": {

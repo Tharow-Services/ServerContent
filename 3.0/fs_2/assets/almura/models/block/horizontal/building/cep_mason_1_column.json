@@ -1,0 +1,7 @@
+{
+    "parent": "almura:block/horizontal/building/common_column_3",
+    "textures": {
+        "side": "almura:block/building/cep_mason_1_bricks",
+        "end": "almura:block/building/cep_mason_1_smooth"
+    }
+}

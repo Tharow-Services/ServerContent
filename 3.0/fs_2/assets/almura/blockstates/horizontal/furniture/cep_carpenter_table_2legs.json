@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:cep_carpenter_table_2legs.obj",
+        "model": "almura:furniture/cep_carpenter_table_2legs",
         "transform": "forge:default-block"
     },
     "variants": {

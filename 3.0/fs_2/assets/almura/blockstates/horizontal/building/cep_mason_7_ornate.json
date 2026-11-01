@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:cep_mason_7_ornate.obj",
+        "model": "almura:horizontal/building/cep_mason_7_ornate",
         "transform": "forge:default-block"
     },
     "variants": {

@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "almura:block/building/cep_mason_6_bricks",
+        "top": "almura:block/building/cep_mason_6_bricks",
+        "side": "almura:block/building/cep_mason_6_bricks"
+    }
+}

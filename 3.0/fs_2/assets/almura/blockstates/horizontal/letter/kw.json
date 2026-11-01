@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:normal/letter/kw.obj",
+        "model": "almura:normal/letter/kw",
         "transform": "forge:default-block"
     },
     "variants": {

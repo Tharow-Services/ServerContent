@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:normal/letter/exclamationmarkw.obj",
+        "model": "almura:normal/letter/exclamationmarkw",
         "transform": "forge:default-block"
     },
     "variants": {

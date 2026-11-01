@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:marbleore.obj",
+        "model": "almura:ore/marble_ore",
         "transform": "forge:default-block"
     },
     "variants": {

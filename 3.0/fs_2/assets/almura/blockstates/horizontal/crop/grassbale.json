@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:grassbale.obj",
+        "model": "almura:horizontal/crop/grassbale",
         "transform": "forge:default-block"
     },
     "variants": {

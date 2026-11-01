@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:normal/letter/hb.obj",
+        "model": "almura:normal/letter/hb",
         "transform": "forge:default-block"
     },
     "variants": {

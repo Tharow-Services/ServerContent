@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:wheatbale.obj",
+        "model": "almura:horizontal/crop/wheatbale",
         "transform": "forge:default-block"
     },
     "variants": {

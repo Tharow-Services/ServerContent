@@ -1,0 +1,103 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "particle": "almura:block/furniture/cep_carpenter_table_top",
+        "cep_carpenter_table_top": "almura:block/furniture/cep_carpenter_table_top",
+        "cep_carpenter_table_side_bordered": "almura:block/furniture/cep_carpenter_table_side_bordered"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Top",
+            "from": [ 0, 12.75, 0 ], 
+            "to": [ 16, 16, 16 ], 
+            "faces": {
+                "north": { "texture": "#cep_carpenter_table_top", "uv": [ 8, 0, 12, 16 ], "rotation": 90, "cullface": "north" },
+                "east": { "texture": "#cep_carpenter_table_top", "uv": [ 8, 0, 12, 16 ], "rotation": 90, "cullface": "east" },
+                "south": { "texture": "#cep_carpenter_table_top", "uv": [ 8, 0, 12, 16 ], "rotation": 90, "cullface": "south" },
+                "west": { "texture": "#cep_carpenter_table_top", "uv": [ 8, 0, 12, 16 ], "rotation": 90, "cullface": "west" },
+                "up": { "texture": "#cep_carpenter_table_top", "uv": [ 0, 0, 16, 16 ], "rotation": 90 },
+                "down": { "texture": "#cep_carpenter_table_top", "uv": [ 0, 0, 16, 16 ], "rotation": 90 }
+            }
+        },
+        {
+            "name": "North West Leg",
+            "from": [ 1, 0, 1 ], 
+            "to": [ 3, 12.75, 3 ], 
+            "faces": {
+                "north": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ] },
+                "east": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ] },
+                "south": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ], "cullface": "down" }
+            }
+        },
+        {
+            "name": "North East Leg",
+            "from": [ 13, 0, 1 ], 
+            "to": [ 15, 12.75, 3 ], 
+            "faces": {
+                "north": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ] },
+                "east": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ] },
+                "south": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ], "cullface": "down" }
+            }
+        },
+        {
+            "name": "South East Leg",
+            "from": [ 13, 0, 13 ], 
+            "to": [ 15, 12.75, 15 ], 
+            "faces": {
+                "north": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ] },
+                "east": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ] },
+                "south": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ], "cullface": "down" }
+            }
+        },
+        {
+            "name": "South West Leg",
+            "from": [ 1, 0, 13 ], 
+            "to": [ 3, 12.75, 15 ], 
+            "faces": {
+                "north": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ] },
+                "east": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ] },
+                "south": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#cep_carpenter_table_side_bordered", "uv": [ 0, 0, 16, 16 ], "cullface": "down" }
+            }
+        }
+    ]
+}

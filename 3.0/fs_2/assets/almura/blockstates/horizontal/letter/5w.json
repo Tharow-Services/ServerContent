@@ -1,7 +1,7 @@
 {
     "forge_marker": 1,
     "defaults": {
-        "model": "almura:normal/letter/5w.obj",
+        "model": "almura:normal/letter/5w",
         "transform": "forge:default-block"
     },
     "variants": {
