@@ -294,5 +294,15 @@
   "cep_shaman_standingstone_horizontal_ramp2.name": "Horizontal Standing Stone (alt ramp)",
   "cep_shaman_standingstone_horizontal_upper.name": "Horizontal Standing Stone (upper)",
   "cep_shaman_throne.name": "Faction Throne",
-  "book_the_stand.name": "The Stand by: Stephen King"
+  "book_the_stand.name": "The Stand by: Stephen King",
+  "magic_circle_floor_1.name": "Magic Circle 1 (floor)",
+  "magic_circle_floor_10.name": "Magic Circle 10 (floor)",
+  "magic_circle_floor_2.name": "Magic Circle 2 (floor)",
+  "magic_circle_floor_3.name": "Magic Circle 3 (floor)",
+  "magic_circle_floor_4.name": "Magic Circle 4 (floor)",
+  "magic_circle_floor_5.name": "Magic Circle 5 (floor)",
+  "magic_circle_floor_6.name": "Magic Circle 6 (floor)",
+  "magic_circle_floor_7.name": "Magic Circle 7 (floor)",
+  "magic_circle_floor_8.name": "Magic Circle 8 (floor)",
+  "magic_circle_floor_9.name": "Magic Circle 9 (floor)"
 }
